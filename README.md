@@ -94,4 +94,4 @@ A simple console-based banking system implemented in Python using MySQL for data
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is open source. You can use, modify, and distribute it as you wish. Please give appropriate credit to the original authors.
