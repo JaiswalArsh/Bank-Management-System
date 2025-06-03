@@ -1,6 +1,6 @@
 import mysql.connector as sql
 
-mydb=sql.connect(host="localhost",user="root",passwd="Virus@12",database="bank")
+mydb=sql.connect(host="localhost",user="root",passwd="PASSWORD",database="bank") #Add your own MySQL password
 cursor = mydb.cursor()
 
 def db_query(str):
